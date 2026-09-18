@@ -1,5 +1,5 @@
 # 💫 About Me:
-Estudiante de Ingeniería Informática de Software en la Escuela de Ingeniería Informática de Oviedo. <br><br>Ahora mismo estoy en 2º año de ingeniería, profundizando en las estructuras de datos, su manejo y <br>empezar a manejar algo más que un código que nos saque del apuro. <br><br>Valoro la eficiencia al realizar una tarea, pero sin dejar de lado el comprender lo que se está haciendo<br>y el porqué de la cosas. 
+Estudiante de Ingeniería Informática de Software en la Escuela de Ingeniería Informática de Oviedo. <br><br>Ahora mismo estoy en 3º año de ingeniería, profundizando en crear producto software mediante procesos, sistemas de trabajo y organización del trabajo en equipo. <br><br>Valoro la eficiencia al realizar una tarea, pero sin dejar de lado el comprender lo que se está haciendo<br>y el porqué de la cosas. 
 
 
 ## 🌐 Socials:
